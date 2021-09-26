@@ -4,6 +4,9 @@ body {
     font-family: monospace;
     font-size: large;
     background-image: url(https://live.staticflickr.com/8575/16439714970_e1c2d30e29_b.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
 
 }
 .container {
